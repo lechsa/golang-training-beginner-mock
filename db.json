@@ -1,0 +1,15 @@
+{
+  "hello-world": {
+    "message": "hello world"
+  },
+  "health": {
+    "status": "healthy"
+  },
+  "payment-codes": [
+    {
+      "id": 1,
+      "payment_code": "12345",
+      "name": "Lechsa"
+    }
+  ]
+}
